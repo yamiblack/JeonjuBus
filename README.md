@@ -3,7 +3,7 @@
 <img
   src="https://user-images.githubusercontent.com/50551349/93021462-a15e0780-f61d-11ea-948b-d21089345455.png">
   
- - Updated Android application called 'Jeonju Bus' while working as an intern at Marusoft. (Update Version : 3.12)
+ - Updated Android application called 'Jeonju Bus' while working as an intern at <a href="http://www.marusoft.net/">Marusoft</a>. (Update Version : 3.12)
  - The code can't be disclosed because of company regulations.
  - Details and downloads can be done <a href="https://play.google.com/store/apps/details?id=marusoft.jjbus">here</a>.
 <br>
